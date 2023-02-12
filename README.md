@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mateus, a student at UEMG - Passos</div>  
   
 
-- 🔭 I’m currently studying  
+- 🔭 I’m currently on the fifth period of information systems
   
 
 - 🌱 I’m currently learning Windows Forms whit SQL  
@@ -71,7 +71,7 @@
 <a href="https://github.com/Mateus-Redivo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/Mateus Redivo" target="_blank">
+<a href="https://www.linkedin.com/feed/?trk=404_page" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
