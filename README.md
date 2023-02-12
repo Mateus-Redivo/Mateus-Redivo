@@ -9,7 +9,7 @@
 - 🔭 I’m currently on the fifth period of information systems
   
 
-- 🌱 I’m currently learning Windows Forms whit SQL  
+- 🌱 I’m currently learning C language, Java, Python and SQL 
   
 
 - ❓ Ask me about anything  
