@@ -6,10 +6,10 @@
 ### <div align="center">I'm Mateus, a student at UEMG - Passos</div>  
   
 
-- 🔭 I’m currently on the fifth period of information systems
+- 🔭 I’m currently on the seventh period of information systems
   
 
-- 🌱 I’m currently learning C language, Java, Python and SQL 
+- 🌱 I’m currently learning C language, JavaScript, and SQL 
   
 
 - ❓ Ask me about anything  
