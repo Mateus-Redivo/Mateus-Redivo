@@ -9,7 +9,7 @@
 - 🔭 I’m currently on the seventh period of information systems
   
 
-- 🌱 I’m currently learning C language, JavaScript, and SQL 
+- 🌱 I’m currently learning C language, Java, and SQL 
   
 
 - ❓ Ask me about anything  
