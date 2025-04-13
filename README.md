@@ -6,16 +6,15 @@
 ### <div align="center">I'm Mateus, a student at UEMG - Passos</div>  
   
 
-- 🔭 I’m currently on the eighth period of information systems
-  
+-🎓 Graduated in Information Systems from UEMG - Passos
 
-- 🌱 I’m currently learning C language, Java, and SQL 
-  
+-👨‍🏫 Currently teaching in the areas of Object-Oriented Programming, Software Architecture, and Algorithms
 
-- ❓ Ask me about anything  
-  
+-💻 Always learning — currently focused on Python, C, Java, and SQL
 
-- ⚡ Fun fact: I use tabs over spaces  
+-💬 Open to questions, ideas, and tech conversations
+
+-⚡ Fun fact: I proudly use tabs over spaces 😎
   
 
 <br/>  
