@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mateus, a student at UEMG - Passos</div>  
+### <div align="center">I'm Mateus, a graduate in Information Systems from UEMG - Passos</div>  
   
 
 -🎓 Graduated in Information Systems from UEMG - Passos
