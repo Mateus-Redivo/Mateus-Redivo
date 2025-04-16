@@ -2,15 +2,17 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">Hey there! I'm Mateus — a graduate in Information Systems from UEMG - Passos 🚀</div>  
+### <div align="center">I'm Mateus, a graduate in Information Systems from UEMG - Passos</div>  
 
 ---
-
-- 🎓 Graduated in Information Systems from UEMG - Passos  
+  
+- 🎓 Graduated in Information Systems from UEMG – Passos  
 - 👨‍🏫 Currently teaching Object-Oriented Programming, Software Architecture, and Algorithms  
-- 💻 Always learning — currently focused on Python, C, Java, and SQL  
+- 📚 Passionate about knowledge sharing — always open to teach and learn something new  
+- 💻 Constantly evolving — currently focused on Python, Java, C, and SQL  
+- 🚀 Always seeking new challenges and opportunities to grow  
 - 💬 Open to questions, discussions, and tech ideas  
-- ⚡ Fun fact: I proudly use tabs over spaces 😎  
+
 
 ---
 
