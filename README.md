@@ -42,10 +42,20 @@
 
 ### ⚙️ DevOps & Tools  
 <div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original.svg" alt="GitHub" height="50" /></a>  
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/visualstudio_code-icon.svg" alt="VS Code" height="50" /></a>  
-<a href="https://www.microsoft.com/visualstudio/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/visualstudio-plain.svg" alt="Visual Studio" height="50" /></a>  
+  <a href="https://github.com/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50" />
+  </a>  
+  <a href="https://git-scm.com/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" />
+  </a>  
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="50" />
+  </a>  
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="50" />
+  </a>  
 </div>
+
 
 </td></tr></table>  
 
