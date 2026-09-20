@@ -1,9 +1,7 @@
 <div align="center">
-
-# Mateus Redivo
-
-**Software developer and educator**
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=180&section=header&text=Mateus%20Redivo&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Software%20developer%20and%20educator&descSize=18&descAlignY=58" alt="Mateus Redivo" width="100%" />
+<br />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=0A66C2&center=true&vCenter=true&width=520&height=40&lines=Building+software;Teaching+Object-Oriented+Programming;Python+%7C+Java+%7C+C+%7C+SQL;Always+learning+and+sharing" alt="Typing animation" />
 </div>
 
 ---
@@ -16,6 +14,10 @@ I build software and teach how to build it. My work sits between the classroom a
 - Teaching Object-Oriented Programming, Software Architecture, and Algorithms
 - Currently focused on Python, Java, C, and SQL
 - Always open to questions, discussions, and tech ideas
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,mysql,docker,vscode&perline=5" alt="Python, Java, MySQL, Docker, VS Code" />
+</div>
 
 ---
 
@@ -89,5 +91,10 @@ More on my [GitHub profile](https://github.com/Mateus-Redivo?tab=repositories).
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mateus-Redivo&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" />
+<img src="https://readme-stats-fast.vercel.app/api?username=Mateus-Redivo&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" height="180" />
+<img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Mateus-Redivo&layout=compact&hide_border=true&hide=jupyter%20notebook,html" alt="Top languages" height="180" />
+<br />
+<img src="https://streak-stats.demolab.com/?user=Mateus-Redivo&hide_border=true" alt="GitHub streak" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=100&section=footer" alt="" width="100%" />
